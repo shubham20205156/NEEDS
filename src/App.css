@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.homeContainer{
+  background-color: #140960;
+}
+.NavbarContainer{
+  background-color: #140960;
+}
